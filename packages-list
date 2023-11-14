@@ -4,7 +4,6 @@ ffmpeg
 colordiff
 transmission-show
 zsh
-zap
 tldr
 cloc
 fd
@@ -16,7 +15,6 @@ ripgrep
 btop
 rustup
 sshfs
-syncthing
 mandb
 npm
 bc
